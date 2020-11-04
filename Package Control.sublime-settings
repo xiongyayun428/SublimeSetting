@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ChineseLocalizations",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Emmet",
+		"GBK Support",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Package Control",
+		"Sublimerge 3",
+	],
+}

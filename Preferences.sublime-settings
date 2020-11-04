@@ -1,0 +1,15 @@
+{
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage",
+	],
+	// 设为true时，缩进和遇到Tab键时使用空格替代
+	"translate_tabs_to_spaces": true,
+	"open_files_in_new_window": false,
+	// 在状态栏中显示文件编码
+	"show_encoding": true,
+	// Display line endings in the status bar
+	"show_line_endings": true,
+}
